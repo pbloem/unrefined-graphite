@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-33416628-5"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-33416628-5');
+	</script>
+
+    <title>Unrefined graphite</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/style.css">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="/galleria/galleria.min.js"></script>
+    <script src="/galleria/themes/folio/galleria.folio.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/galleria/themes/folio/galleria.folio.min.css" />
+    
+    <script src="/scripts.js"></script>
+    
+	<link rel="icon" type="image/png" href="/favicon.png">
+		
+  </head>
+  <body id="body">
+  
+  <nav>
+  <ul>
+    <li class="home"><a href="/">unrefined graphite</a></li>
+    <li><a href="/illustrations">illustrations</a></li>
+    <li><a href="/sketches">sketches</a></li>
+    <li><a href="/comics">comics</a></li>
+  </ul>
+  </nav>
+  
+  <article>
+  {{ content }}
+  </article>
+  <footer>
+  twitter: <a href="https://twitter.com/un_graph">@un_graph</a>
+  </footer>
+  
+  </body>
+</html>
