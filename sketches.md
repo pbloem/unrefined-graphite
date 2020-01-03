@@ -1,6 +1,7 @@
 # Sketches
 
 <div class="galleria">
+    <img src="/sketches/girl.jpg" data-title="Girl" data-description="Digital sketch of a young woman.">
     <img src="/sketches/coffee.png" data-title="Coffee" data-description="Digital sketch.">
     <img src="/sketches/inktober2017-1.jpg" data-title="Scene" data-description="An (imaginary) scene of an apartment. Drawn with technical pen for inktober 2017.">
     <img src="/sketches/inktober2017-2.jpg" data-title="Nude 1" data-description="A nude from a croquis cafe video. Drawn with nib pen for inktober 2017.">
