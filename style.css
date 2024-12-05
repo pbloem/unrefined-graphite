@@ -177,3 +177,7 @@ ul.stories li a {
 .galleria {
 	height: 600px;
 }
+
+.page {
+    width: 100%;
+}

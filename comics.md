@@ -1,6 +1,3 @@
-# Comics
 
-Nothing here yet. Coming soon?
+[War plan indigo](/aliens)
 
-<div class="galleria">
-</div>
